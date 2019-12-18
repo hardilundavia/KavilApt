@@ -1,0 +1,6 @@
+D:\MA032\p3\p3\bin\Debug\p3.exe.config
+D:\MA032\p3\p3\bin\Debug\p3.exe
+D:\MA032\p3\p3\bin\Debug\p3.pdb
+D:\MA032\p3\p3\obj\Debug\p3.csproj.CoreCompileInputs.cache
+D:\MA032\p3\p3\obj\Debug\p3.exe
+D:\MA032\p3\p3\obj\Debug\p3.pdb
